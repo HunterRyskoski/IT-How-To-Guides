@@ -5,6 +5,7 @@ Active Directory Users and Computers (ADUC) can be installed on supported Window
 ## When to Use This
 
 Use this when you need to install Active Directory Users and Computers on a Windows workstation for domain administration tasks.
+You can expect the full process to take about 10 minutes in total.
 
 ## Prerequisites
 
