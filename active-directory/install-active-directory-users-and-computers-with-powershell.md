@@ -18,3 +18,7 @@ Run the following command in an elevated PowerShell window:
 
 ```powershell
 Add-WindowsCapability -Online -Name Rsat.ActiveDirectory.DS-LDS.Tools~~~~0.0.1.0
+
+### Why does the command include `~~~~0.0.1.0`?
+
+That part is simply built into the full Windows capability name. Windows uses the complete feature identifier when installing or removing optional capabilities, so the tildes and version number need to stay in the command.
