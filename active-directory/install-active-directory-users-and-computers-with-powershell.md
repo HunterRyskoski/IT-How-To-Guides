@@ -18,10 +18,3 @@ Run the following command in an elevated PowerShell window:
 
 ```powershell
 Add-WindowsCapability -Online -Name Rsat.ActiveDirectory.DS-LDS.Tools~~~~0.0.1.0
-
-## Launch ADUC
-
-After installation, open Active Directory Users and Computers by running:
-
-```powershell
-dsa.msc
