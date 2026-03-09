@@ -19,5 +19,3 @@ Run the following command in an elevated PowerShell window:
 ```powershell
 Add-WindowsCapability -Online -Name Rsat.ActiveDirectory.DS-LDS.Tools~~~~0.0.1.0
 
-Then launch using:
-**dsa.msc**
