@@ -24,3 +24,8 @@ This repository may include guides in areas such as:
 - Device setup and troubleshooting
 - Printer deployment and management
 - Microsoft 365 and endpoint management
+
+
+## Guides
+
+- [Install Active Directory Users and Computers with PowerShell](active-directory/install-active-directory-users-and-computers-with-powershell.md)
