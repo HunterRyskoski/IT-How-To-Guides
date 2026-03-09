@@ -32,3 +32,5 @@ After installation, open Active Directory Users and Computers by running:
 ```powershell
 dsa.msc
 ```
+## Link to Video Walkthrough
+https://www.youtube.com/watch?v=nQew6eI3Vwc
