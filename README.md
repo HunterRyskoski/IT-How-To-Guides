@@ -26,6 +26,6 @@ This repository may include guides in areas such as:
 - Microsoft 365 and endpoint management
 
 
-## YouTube Guides
+## Guides
 
 - [Install Active Directory Users and Computers with PowerShell](active-directory/install-active-directory-users-and-computers-with-powershell.md)
