@@ -1,0 +1,86 @@
+## Overview
+In managed and personal environments, there may be times when an iPad passcode needs to be updated for security, compliance, or general account maintenance.
+
+Changing the passcode on a 10th Generation iPad is a straightforward process that can be completed directly from the Settings app, as long as the current passcode is known.
+
+This guide outlines the process for changing the passcode on an Apple iPad (10th Generation).
+
+## When to Use This Procedure
+This process should be used when:
+
+- The current iPad passcode needs to be updated
+- A user wants to improve device security
+- A temporary passcode needs to be replaced
+- A standard passcode rotation is being performed
+
+**Note:** You must know the current passcode in order to change it. If the current passcode is unknown, the device will need to be erased and recovered.
+
+## Step-by-Step Process
+
+### Step 1 — Open Settings
+On the iPad, open the **Settings** app.
+
+### Step 2 — Navigate to Passcode Settings
+Scroll down and select:
+
+**Touch ID & Passcode**
+
+Depending on configuration, this may simply appear as **Passcode**.
+
+### Step 3 — Enter the Current Passcode
+When prompted, enter the device’s current passcode.
+
+This allows access to the passcode management settings.
+
+### Step 4 — Select Change Passcode
+Within the passcode settings screen, tap:
+
+**Change Passcode**
+
+### Step 5 — Re-enter the Current Passcode
+The device may prompt again for the existing passcode before allowing the change.
+
+Enter the current passcode again to continue.
+
+### Step 6 — Enter the New Passcode
+Type the new passcode you want to use on the device.
+
+If needed, select **Passcode Options** to choose a different format, such as:
+
+- 4-Digit Numeric Code
+- 6-Digit Numeric Code
+- Custom Numeric Code
+- Custom Alphanumeric Code
+
+### Step 7 — Confirm the New Passcode
+Re-enter the new passcode to confirm it.
+
+Once confirmed, the new passcode will be applied to the iPad.
+
+## After Changing the Passcode
+Once the process is complete:
+
+- The new passcode will be required the next time the device is unlocked
+- Any user accessing the device will need the updated passcode
+- The updated passcode will remain in effect until it is changed again
+
+## Notes for Managed Environments
+If the iPad is part of a managed environment:
+
+- Passcode requirements may be enforced by MDM policy
+- The device may require a minimum passcode length or complexity
+- Some organizations may restrict certain passcode options
+- If passcode settings are unavailable or grayed out, verify the applied compliance or configuration policies in Microsoft Intune or the relevant MDM platform
+
+## Author
+**Hunter Ryskoski**  
+**Systems Administrator**
+
+**Website:**  
+https://hunterryskoski.com
+
+**GitHub:**  
+https://github.com/HunterRyskoski
+
+**LinkedIn:**  
+https://www.linkedin.com/in/hunter-ryskoski-772a81170/
